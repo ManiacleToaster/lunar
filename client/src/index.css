@@ -1,0 +1,163 @@
+body {
+  background-color: #000d30;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Header:hover{
+  color:#FDd38c;
+}
+
+.table {
+  color: #e9b560;
+}
+
+.navbar {
+  background-color: #000d30;
+}
+
+.navbar-brand:hover {
+  color: #FDd38c;
+  transform:scale(103%);
+}
+
+.navbar-brand {
+  color: #e9b560;
+}
+
+.projects {
+  color: #e9b560;
+}
+
+p {
+  color: #e9b560;
+}
+
+.table-hover tbody tr:hover td {
+  background: #002e5d;
+  color: #e9b560;
+}
+
+.btn-danger {
+  color: #000d30;
+  background-color: #e9b560;
+  border-color: #e9b560;
+}
+
+.btn-danger:hover {
+  background-color: #FDd38c;
+  border-color: #FDd38c;
+}
+
+
+clients {
+  color: #e9b560;
+}
+
+.navbar-brand img {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.btn {
+  font-size: 15px;
+}
+
+.card {
+  background-color: #002e5d;
+}
+
+.card-title {
+  color: #e9b560;
+}
+
+.btn-light {
+  background-color: #e9b560;
+  color: #002e5d;
+  border: none;
+}
+
+.btn-light:hover {
+  background-color: #000d30;
+  color: #e9b560;
+}
+
+.btn-primary,
+.bg-primary {
+  background-color: #e9b560;
+  border: none;
+  border-radius: 300px;
+  color: #000d30;
+}
+
+.btn-primary:hover {
+  background-color: #FDd38c;
+  opacity: 0.9;
+  color: #002e5d
+}
+
+.btn-secondary {
+  color: #000d30;
+  background-color: #e9b560;
+  border-radius: 300px;
+}
+
+.btn-secondary:hover {
+  background-color: #FDd38c;
+  opacity: 0.9;
+  color: #002e5d
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+/* Modal Styling */
+
+.modal-header {
+  color: #e9b560;
+  background-color: #002e5d;
+}
+
+.modal-body {
+  color: #e9b560;
+  background-color: #002e5d;
+}
+
+.modal-content {
+  border:none;
+}
+
+.form-control {
+  background-color: #e9b560;
+  border:none;
+}
+
+.form-select {
+  background-color: #e9b560;
+  border:none;
+}
+
+.onChange {
+  background-color: #e9b560;
+}
+
+h1,
+h3,
+h5,
+.form-label {
+  color: #e9b560;
+}
+
+.list-group-item {
+  background-color: #e9b560;
+}
